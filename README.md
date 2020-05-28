@@ -1,13 +1,12 @@
 # 1993 TRAP.BAT
- Security Trace
+Category: _Security Tracing_
 
-Creation Date: Unknown
+Creation Date: _1992/1993_
 
-Last update: 1993-03-22 14:22
+Last update: _1993-03-22 14:22_
 
-OS: Novell Netware
+OS: _Novell Netware_
 
-Category: Security
 
 
 
